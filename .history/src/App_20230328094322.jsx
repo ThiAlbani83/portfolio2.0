@@ -5,6 +5,7 @@ import Skills from "./components/skills/Skills"
 import {hero, aboutMe, skills} from './data/data'
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Portfolio from "./components/portfolio/Portfolio"
+import Contact from "./components/contact/Contact"
 import Footer from "./components/footer/Footer"
 
 function App() {
@@ -21,4 +22,4 @@ function App() {
   )
 }
 
-export default App
+export default App 
